@@ -1,0 +1,13 @@
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\UCNDemo.dll
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\UCNDemo.pdb
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\MvvmCross.Binding.dll
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\MvvmCross.Core.dll
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\MvvmCross.Localization.dll
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\MvvmCross.Platform.dll
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\obj\Debug\UCNDemo.csprojResolveAssemblyReference.cache
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\obj\Debug\UCNDemo.dll
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\obj\Debug\UCNDemo.pdb
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\obj\Debug\UCNDemo.dll.mdb
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\UCNDemo.dll.mdb
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\obj\Debug\UCNDemo.dll.mdb
+c:\users\mk88\documents\visual studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo\bin\Debug\UCNDemo.dll.mdb
