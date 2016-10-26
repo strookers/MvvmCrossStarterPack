@@ -1,0 +1,11 @@
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\UCNDemo.WinPhone.csprojResolveAssemblyReference.cache
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\App.g.i.cs
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\App.g.cs
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\MainPage.g.i.cs
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\MainPage.g.cs
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\App.xaml
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\MainPage.xaml
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\App.xbf
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\MainPage.xbf
+c:\Users\mk88\Documents\Visual Studio 2015\Projects\UCNDemo\UCNDemo\UCNDemo.WinPhone\obj\Debug\XamlSaveStateFile.xml

@@ -2,7 +2,7 @@ package md5bd7086e7843a67121477f79820e6826f;
 
 
 public class SplashScreen
-	extends md5c293e307133ee8f46151deed2480c6a8.MvxSplashScreenActivity
+	extends mvvmcross.droid.views.MvxSplashScreenActivity
 	implements
 		mono.android.IGCUserPeer
 {

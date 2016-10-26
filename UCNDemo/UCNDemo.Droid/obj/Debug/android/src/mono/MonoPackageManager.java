@@ -108,6 +108,8 @@ class MonoPackageManager_Resources {
 		"MvvmCross.Localization.dll",
 		"MvvmCross.Platform.dll",
 		"MvvmCross.Platform.Droid.dll",
+		"System.Net.Http.Extensions.dll",
+		"System.Net.Http.Primitives.dll",
 		"UCNDemo.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
@@ -125,6 +127,15 @@ class MonoPackageManager_Resources {
 		"System.Threading.Tasks.dll",
 		"System.Resources.ResourceManager.dll",
 		"System.IO.dll",
+		"System.Net.Primitives.dll",
+		"Newtonsoft.Json.dll",
+		"System.Xml.XDocument.dll",
+		"System.Runtime.Serialization.Primitives.dll",
+		"System.Dynamic.Runtime.dll",
+		"System.Text.RegularExpressions.dll",
+		"System.Xml.ReaderWriter.dll",
+		"System.Text.Encoding.dll",
+		"System.Text.Encoding.Extensions.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
